@@ -7,4 +7,4 @@ Ototrringolaringologista.
 
 ## Para que serve esse arquivo
 
-Serve para ...
+Serve para descrever essa bela area de atuação

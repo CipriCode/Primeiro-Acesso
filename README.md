@@ -3,7 +3,7 @@ Descrição inicial do meu READ ME.
 
 ## Subtitulo 
 
-Ototrringolaringologista.
+Esse é o Texto do Subtítulo.
 
 ## Para que serve esse arquivo
 
